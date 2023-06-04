@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Primary: #051623 (RGB: 5, 22, 35)
+    Secondary: #dcedfa (RGB: 220, 237, 250)
+    Primary Button: #efbc95 (RGB: 239, 188, 149)
+    Secondary Button: #f2f8fd (RGB: 242, 248, 253)
+    Accent: #e2843c (RGB: 226, 132, 60)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=051623-dcedfa-efbc95-f2f8fd-e2843c
+
+Thanks for using RealtimeColors.com!
